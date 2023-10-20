@@ -8,7 +8,7 @@ Played whether in college, home, etc. The only requiremnt is a Laptop/Computer.
 
 =========================================
 ![image](https://github.com/VarunMenon11/Hackathon/assets/91949374/0c22efae-095b-4f73-900d-5b76562103c5)
-
+Main Page
 =========================================
 
 THE NAME GIVEN TO OUR GAME WAS ELEMENTAL FUN.
